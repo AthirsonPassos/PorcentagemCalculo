@@ -33,7 +33,7 @@ namespace PorcentagemCalculo
             Console.WriteLine("Outros: {0}%", poutros);
             Console.ReadKey();
 
-            //By Athirson Passos
+            //By Athirson Passos.
         }
     }
 }
